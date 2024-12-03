@@ -1,14 +1,32 @@
-📂 Archivos Incluidos
-index.html
+# 📋 Cuestionario - Quiz HTML/CSS  
 
-Estructura principal del formulario.
-Organización intuitiva con elementos como fieldset y etiquetas claras.
-styles.css
+Este proyecto es un **cuestionario básico** diseñado para repasar conceptos fundamentales de HTML y CSS. Combina preguntas interactivas con un diseño accesible y limpio.  
 
-Personalización del estilo.
-Reglas para un diseño responsivo y moderno.
-🚀 Cómo Usarlo
-Clona o descarga este repositorio.
-Abre el archivo index.html en tu navegador favorito.
-¡Disfruta de un formulario listo para adaptarse a cualquier proyecto!
-✨ Este proyecto es ideal para aprender sobre diseño web, experimentar con validaciones en formularios o simplemente usarlo como base para tu próxima aplicación web. ¡Personalízalo a tu gusto y hazlo tuyo! 😊
+## 📝 Descripción  
+
+El cuestionario incluye varias secciones para recopilar información del usuario y evaluar conocimientos básicos. Está estructurado para ofrecer una experiencia intuitiva y accesible, cumpliendo con las mejores prácticas de desarrollo web.  
+
+### Características  
+
+- **Campos de información personal:** Nombre, correo electrónico y fecha de nacimiento.  
+- **Preguntas sobre HTML:** Validación de conceptos clave mediante opciones de respuesta.  
+- **Preguntas sobre CSS:** Inclusión de preguntas selectivas y un área de comentarios opcional.  
+- **Diseño accesible:** Uso de etiquetas semánticas, `fieldset`, y `aria-labelledby` para una navegación inclusiva.  
+- **Validaciones integradas:** Se asegura que los datos ingresados sean válidos antes de enviar el formulario.  
+
+## 🎨 Estilo Visual  
+
+El diseño sigue un enfoque minimalista y profesional:  
+
+- **Fondo claro:** Con detalles organizados para una lectura fluida.  
+- **Texto y elementos interactivos:** Claramente visibles y accesibles.  
+- **Navegación estructurada:** Enlaces rápidos a las secciones principales del formulario.  
+
+## ⚙️ Tecnologías Usadas  
+
+- **HTML5:** Para la estructura del formulario y las preguntas.  
+- **CSS3:** Para estilizar y garantizar un diseño adaptativo y atractivo.  
+
+---  
+
+🎯 **Ideal para practicar y reforzar habilidades básicas en HTML y CSS.** ¡Pruébalo y mejora tus conocimientos!  
